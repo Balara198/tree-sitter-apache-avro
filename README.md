@@ -1,5 +1,13 @@
 # Tree Sitter Apache Avro
 
+> **Unofficial Python release.**
+> This package (`tree-sitter-apache-avro-unofficial`) is an unofficial PyPI distribution of
+> [sebimarkgraf/tree-sitter-apache-avro](https://github.com/sebimarkgraf/tree-sitter-apache-avro),
+> which is itself a fork of [victorhqc/tree-sitter-apache-avro](https://github.com/victorhqc/tree-sitter-apache-avro).
+> All grammar and parser logic belongs to the original authors.
+> This release adds only the missing Python packaging.
+> Maintained by [Laszlo Babartzy](https://github.com/Balara198).
+
 ## Introduction
 
 This is an **unofficial** Apache Avro IDL (.avdl) based on the
